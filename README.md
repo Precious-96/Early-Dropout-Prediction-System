@@ -1,4 +1,4 @@
-Early Dropout Prediction System for Schools
+SentriAI
 
 Overview
 The Early Dropout Prediction System is an AI-powered tool designed to help schools identify students who are at risk of dropping out. It analyses patterns in attendance, academic performance, and behaviour to give early alerts that enable timely intervention.
